@@ -1,2 +1,3 @@
 # stock-market-prediction
-stock market prediction using ARIMA model
+
+Forecasting the future trend of Iranian stock market using ARIMA model.
